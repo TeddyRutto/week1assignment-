@@ -155,13 +155,16 @@ Each group will:
 
 - Present their dashboard to the class  
 - Explain key insights derived from the analysis  
-- Demonstrate dashboard interactivity using filters and slicers  
+- Demonstrate dashboard interactivity using filters and slicers
 
----
 
 ### Discussion Points
 
 - Which products are performing best and why  
 - Whether discounts are effective in driving engagement  
 - Identify products with **high discounts but low ratings**  
-- Provide recommendations to improve product performance  
+- Provide recommendations to improve product performance
+
+- ##**Solution**
+- **Question 1**[Discount amount]
+-<img width="1920" height="1080" alt="Screenshot 2026-03-30 161319" src="https://github.com/user-attachments/assets/57c9232a-6ec3-45dd-9b5a-cde31fb9f70d" />
