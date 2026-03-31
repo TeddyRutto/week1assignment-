@@ -198,7 +198,7 @@ Each group will:
 - [Most expensive]
 <img width="1920" height="431" alt="Screenshot 2026-03-31 164448" src="https://github.com/user-attachments/assets/fcf789d3-6abc-409d-9e0f-e1dfedd93fac" />
 
--[Least expensive]
+- [Least expensive]
 <img width="1920" height="478" alt="Screenshot 2026-03-31 164944" src="https://github.com/user-attachments/assets/08aa14f7-25c2-485b-b0c1-025ea5806b42" />
 
 -**What is the average rating and discount by discount category?**
