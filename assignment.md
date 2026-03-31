@@ -165,6 +165,34 @@ Each group will:
 - Identify products with **high discounts but low ratings**  
 - Provide recommendations to improve product performance
 
+ --  
+ 
 - ##**Solution**
 - **Question 1**[Discount amount]
 -<img width="1920" height="1080" alt="Screenshot 2026-03-30 161319" src="https://github.com/user-attachments/assets/57c9232a-6ec3-45dd-9b5a-cde31fb9f70d" />
+
+-**Question 2**[Ratings category]
+  <img width="1920" height="1080" alt="Screenshot 2026-03-31 154115" src="https://github.com/user-attachments/assets/ba3712dd-5801-46cb-b9a5-27d7e5751427" />
+
+-**Question 3**[Discount category] 
+<img width="1920" height="1080" alt="Screenshot 2026-03-31 154905" src="https://github.com/user-attachments/assets/4315c766-f529-4266-9c9a-bf5295a22abc" />
+
+--
+
+## Data Analysis
+
+### Descriptive Analysis Solutions 
+
+- **What is the average:**
+-[Current price]
+<img width="1920" height="1080" alt="Screenshot 2026-03-31 162019" src="https://github.com/user-attachments/assets/bc515cc1-b591-4fd7-a08e-3c90c421dafc" />
+-[Old price]
+<img width="1920" height="1080" alt="Screenshot 2026-03-31 162301" src="https://github.com/user-attachments/assets/2cf251ea-8d85-427d-85bd-bc1ee7da8f0e" />
+-[Discount percentage]
+<img width="1920" height="708" alt="Screenshot 2026-03-31 162601" src="https://github.com/user-attachments/assets/d3944f70-90e7-4152-980d-75e4198bba97" />
+-[Ratings]
+<img width="1920" height="886" alt="Screenshot 2026-03-31 162809" src="https://github.com/user-attachments/assets/0c0619a0-173c-4d8c-b1e3-e9e0ad478e56" />
+
+
+
+
