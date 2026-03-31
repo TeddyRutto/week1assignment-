@@ -171,10 +171,10 @@ Each group will:
 - **Question 1**[Discount amount]
 -<img width="1920" height="1080" alt="Screenshot 2026-03-30 161319" src="https://github.com/user-attachments/assets/57c9232a-6ec3-45dd-9b5a-cde31fb9f70d" />
 
--**Question 2**[Ratings category]
+- **Question 2**[Ratings category]
   <img width="1920" height="1080" alt="Screenshot 2026-03-31 154115" src="https://github.com/user-attachments/assets/ba3712dd-5801-46cb-b9a5-27d7e5751427" />
 
--**Question 3**[Discount category] 
+- **Question 3**[Discount category] 
 <img width="1920" height="1080" alt="Screenshot 2026-03-31 154905" src="https://github.com/user-attachments/assets/4315c766-f529-4266-9c9a-bf5295a22abc" />
 
 --
@@ -192,6 +192,20 @@ Each group will:
 <img width="1920" height="708" alt="Screenshot 2026-03-31 162601" src="https://github.com/user-attachments/assets/d3944f70-90e7-4152-980d-75e4198bba97" />
 -[Ratings]
 <img width="1920" height="886" alt="Screenshot 2026-03-31 162809" src="https://github.com/user-attachments/assets/0c0619a0-173c-4d8c-b1e3-e9e0ad478e56" />
+
+- **Which product is:**
+
+- [Most expensive]
+<img width="1920" height="431" alt="Screenshot 2026-03-31 164448" src="https://github.com/user-attachments/assets/fcf789d3-6abc-409d-9e0f-e1dfedd93fac" />
+
+-[Least expensive]
+<img width="1920" height="478" alt="Screenshot 2026-03-31 164944" src="https://github.com/user-attachments/assets/08aa14f7-25c2-485b-b0c1-025ea5806b42" />
+
+-**What is the average rating and discount by discount category?**
+<img width="1920" height="507" alt="Screenshot 2026-03-31 165850" src="https://github.com/user-attachments/assets/ae20ca7e-1e43-46a3-b0a1-e9d3f63a7f29" />
+
+-**How are products distributed across rating categories?**
+<img width="1920" height="516" alt="Screenshot 2026-03-31 170406" src="https://github.com/user-attachments/assets/98688b81-51c5-45f9-9b87-e36d8113fc55" />
 
 
 
