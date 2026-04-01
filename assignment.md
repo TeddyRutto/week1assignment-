@@ -223,5 +223,32 @@ Each group will:
 - **Determine whether higher-rated products tend to have more reviews**
 - Analysis suggest that consumer engangements is highest at excellent and medium rated products. Meaning when they are happy with a product, they are motivated to leave a review.
 
+- ### Product Performance Analysis
+
+- **Top 10 products with the highest discounts**
+-<img width="1920" height="643" alt="image" src="https://github.com/user-attachments/assets/76c5c08b-8a97-47ff-8306-cb37758ef65e" />
+
+- **Top 10 products with the most reviews**
+- <img width="1920" height="614" alt="image" src="https://github.com/user-attachments/assets/90be1ee0-4d8b-412a-9503-fbc2778044da" />
+
+- **Top 5** **highest-rated** **and bottom 5****lowest-rated** products
+- <img width="1920" height="690" alt="image" src="https://github.com/user-attachments/assets/40c8918a-f92a-4a07-bd70-d25502acfa36" />
+
+- **Comparison between high-discount and low-discount products** based on:
+- <img width="1920" height="223" alt="Screenshot 2026-04-01 131153" src="https://github.com/user-attachments/assets/2b00c03c-61b4-45d8-90d1-7c0fd68d0812" />
+
+- **Average rating**
+- **Number of reviews**
+- Same or almost the same customer satisfaction in both high and low discounted products with only a difference of 0.12 in average ratings. But there is a massive gap in engangements as high discounted products account for 90% of the reviews 334 out of 372. While discounts is slightly lower, high discounted products are effective in driving sales and feedbacks.The average rating for the "High" category is likely more reliable because it is based on a much larger sample size (334 reviews) compared to the "Low" category, which only has 38 reviews.
+
+## Dashboard Design
+<img width="1872" height="667" alt="image" src="https://github.com/user-attachments/assets/a7ffc9b3-6388-445b-919a-784ce3f41a34" />
+
+**Key insights**
+- High discounts drive engangements compared to low discounts on products
+- High rated products have more feedbacks from consumers compared to low and average rated products
+- 
+- 
+
 
 
