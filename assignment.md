@@ -210,9 +210,18 @@ Each group will:
 ### Trend and Relationship Analysis
 
 - **The relatioship between discount percentage and number of reviews**
-- Product with low discount percentage have less reviews (38) compared to those with high (334) and medium discount percentage (351). Products with medium and high discounts get roughly 9 times more reviews than low discount products. Consumers feel more motivated to leave reviews when they feel they've gotten a good deal.
+- Product with low discount percentage have less reviews (38) compared to those with high (334) and medium discount percentage (351).
+  <img width="1920" height="246" alt="image" src="https://github.com/user-attachments/assets/7986fbf2-52f3-4a2a-910d-5658b2e18858" />
 
-- 
+  - **Analyze the relationship between rating and number of reviews**
+- Products with excellent ratings have the highest number of reviews (23), followed by average (22) and then poor (12).
+- <img width="1920" height="165" alt="image" src="https://github.com/user-attachments/assets/7f1176f9-e8a8-440e-a546-771a142f8e61" />
+
+- **Determine whether higher discounts lead to increased customer engagement**
+-   Products with medium and high discounts get roughly 9 times more reviews than low discount products. Consumers feel more motivated to leave reviews when they feel they've gotten a good deal.
+
+- **Determine whether higher-rated products tend to have more reviews**
+- Analysis suggest that consumer engangements is highest at excellent and medium rated products. Meaning when they are happy with a product, they are motivated to leave a review.
 
 
 
