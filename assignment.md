@@ -207,6 +207,12 @@ Each group will:
 -**How are products distributed across rating categories?**
 <img width="1920" height="516" alt="Screenshot 2026-03-31 170406" src="https://github.com/user-attachments/assets/98688b81-51c5-45f9-9b87-e36d8113fc55" />
 
+### Trend and Relationship Analysis
+
+- **The relatioship between discount percentage and number of reviews**
+- Product with low discount percentage have less reviews (38) compared to those with high (334) and medium discount percentage (351). Products with medium and high discounts get roughly 9 times more reviews than low discount products. Consumers feel more motivated to leave reviews when they feel they've gotten a good deal.
+
+- 
 
 
 
